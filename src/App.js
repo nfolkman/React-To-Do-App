@@ -70,7 +70,7 @@ function App() {
 
       <header>
 
-      <h1>To-do List</h1>
+      <h1>List-Up</h1>
 
       </header>
 
