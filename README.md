@@ -14,5 +14,10 @@
 </p>
 
 
-<h4>Tentative Launch Date: 7/17</h4>
+
+<h3> Launched for Desktop: 7/17</h3>
+
+<br>
+
+<h3>Mobile Launch Coming Soon</h3>
 
